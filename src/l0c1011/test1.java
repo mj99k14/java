@@ -10,6 +10,6 @@ public class test1 {
             int foo =5;
             System.out.println("foo");
         }
-        System.out.println(foo);
+        System.out.println("foo");
     }
 }
