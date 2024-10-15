@@ -1,4 +1,4 @@
-package l0c1011;
+package loc1011;
 
 public class test1 {
     public static void main(String[] args) {

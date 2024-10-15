@@ -1,4 +1,4 @@
-package LOC0906;
+package loc0906;
 
 import java.util.Scanner;
 
